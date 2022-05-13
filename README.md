@@ -1,7 +1,7 @@
 
 # DESCRIPTION
 
-a `class` wrapper the perceptual loss to quickly compare the similarity between two image 
+a `class` wrap the perceptual loss to quickly compare the similarity between two image 
 
 # INTRODUCTION
 
